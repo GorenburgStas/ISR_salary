@@ -1,0 +1,14 @@
+{
+  "name": "idk",
+  "version": "0.0.1",
+  "description": "lessons",
+  "main": "index.js",
+  "scripts": {
+    "start": "node first.js"
+  },
+  "author": "GorenburgJR",
+  "license": "ISC",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0"
+  }
+}
